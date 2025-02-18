@@ -1,0 +1,57 @@
+SolutionName/
+├── SolutionName.sln
+├── README.md
+├── .gitignore
+├── src/
+│   ├── ProjectName.Web/
+│   │   ├── Controllers/
+│   │   ├── Views/
+│   │   ├── wwwroot/
+│   │   ├── ViewModels/
+│   │   ├── Startup.cs
+│   │   └── appsettings.json
+│   ├── ProjectName.Services/
+│   │   ├── Interfaces/
+│   │   ├── Implementations/
+│   │   ├── DTOs/
+│   │   ├── Validators/
+│   │   └── Exceptions/
+│   ├── ProjectName.Data/
+│   │   ├── Repositories/
+│   │   ├── Interfaces/
+│   │   ├── Migrations/
+│   │   ├── DbContext/
+│   │   └── Entities/
+│   ├── ProjectName.Core/
+│   │   ├── Interfaces/
+│   │   ├── Models/
+│   │   ├── Utilities/
+│   │   ├── Enums/
+│   │   └── Constants/
+│   └── ProjectName.CrossCutting/
+│       ├── Logging/
+│       ├── Caching/
+│       ├── Security/
+│       └── DependencyInjection/
+├── tests/
+│   ├── ProjectName.Tests/
+│   │   ├── UnitTests/
+│   │   ├── IntegrationTests/
+│   │   └── TestData/
+├── infrastructure/
+│   ├── ProjectName.Infrastructure/
+│   │   ├── EmailServices/
+│   │   ├── FileStorage/
+│   │   └── ThirdPartyIntegrations/
+├── database/
+│   ├── Scripts/
+│   └── SeedData/
+├── config/
+│   ├── Docker/
+│   ├── CI-CD/
+│   └── EnvironmentConfigurations/
+├── docs/
+│   ├── API-Documentation/
+│   └── Diagrams/
+└── assets/
+    └── Scripts/
