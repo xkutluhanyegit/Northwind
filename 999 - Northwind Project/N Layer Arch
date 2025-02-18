@@ -10,7 +10,7 @@ SolutionName/
 │   │   ├── ViewModels/
 │   │   ├── Startup.cs
 │   │   └── appsettings.json
-│   ├── ProjectName.Services/
+│   ├── ProjectName.Business/
 │   │   ├── Interfaces/
 │   │   ├── Implementations/
 │   │   ├── DTOs/

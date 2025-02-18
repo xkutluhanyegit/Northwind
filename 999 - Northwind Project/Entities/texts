@@ -1,0 +1,5 @@
+dotnet ef dbcontext scaffold
+"Server=localhost;Database=Northwind;User Id=sa;Password=sa1234;Encrypt=True; TrustServerCertificate=True;"
+"Microsoft.EntityFrameworkCore.SqlServer"
+-o Concretes
+ 
