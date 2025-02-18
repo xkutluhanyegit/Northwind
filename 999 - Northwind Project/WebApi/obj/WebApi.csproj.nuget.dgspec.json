@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\WebApi\\WebApi.csproj": {}
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Business\\Business.csproj": {
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\kutluhan.yegit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Business\\obj\\",
+        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kutluhan.yegit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,14 +26,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj"
               },
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj": {
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kutluhan.yegit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\obj\\",
+        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kutluhan.yegit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\CrossCutting\\CrossCutting.csproj",
+        "projectName": "CrossCutting",
+        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\kutluhan.yegit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kutluhan.yegit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -152,11 +152,93 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Business\\Business.csproj"
               },
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj"
+              },
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\kutluhan.yegit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kutluhan.yegit\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj"
+              },
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -201,14 +283,14 @@
         }
       }
     },
-    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj": {
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\kutluhan.yegit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kutluhan.yegit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -223,8 +305,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj"
               }
             }
           }
@@ -281,14 +363,14 @@
         }
       }
     },
-    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\WebApi\\WebApi.csproj": {
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\WebApi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\kutluhan.yegit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\WebApi\\obj\\",
+        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kutluhan.yegit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -303,17 +385,20 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Business\\Business.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Business\\Business.csproj"
               },
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj"
               },
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj"
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -333,6 +418,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.13, )"

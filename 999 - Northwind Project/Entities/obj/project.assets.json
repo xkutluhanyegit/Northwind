@@ -4028,11 +4028,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\kutluhan.yegit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kutluhan.yegit\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4047,8 +4047,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj"
+            "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj"
             }
           }
         }

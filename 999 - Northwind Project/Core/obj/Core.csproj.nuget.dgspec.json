@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj": {}
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj": {
+    "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kutluhan.yegit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\Core\\obj\\",
+        "outputPath": "C:\\Users\\kutluhan.yegit\\Desktop\\Northwind\\999 - Northwind Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kutluhan.yegit\\AppData\\Roaming\\NuGet\\NuGet.Config"
